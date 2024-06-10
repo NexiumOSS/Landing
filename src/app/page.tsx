@@ -1,10 +1,10 @@
 import React from 'react'
-import ComingSoonVersion1 from '@/components/ComingSoonVersion1/ComingSoonVersion1'
+import ComingSoon from '@/components/ComingSoon/Index'
 
 function Version1 () {
   return (
     <>
-        <ComingSoonVersion1 />
+        <ComingSoon />
     </>
   )
 }

@@ -12,14 +12,6 @@ const inter = Inter({
 export const metadata = {
   title: "Home - Nexium",
   description: 'Nexium is your go-to platform for finding skilled moderators and expert developers who can elevate your Discord server to new heights. Whether you’re building a thriving community or developing a groundbreaking project, Nexium bridges the gap between your needs and the perfect professionals to fulfill them.',
-  openGraph: {
-    title: 'Nexium',
-    description: 'Nexium is your go-to platform for finding skilled moderators and expert developers who can elevate your Discord server to new heights. Whether you’re building a thriving community or developing a groundbreaking project, Nexium bridges the gap between your needs and the perfect professionals to fulfill them.',
-    type: 'website',
-    locale: 'en_US',
-    url: 'https://nexisite.xyz',
-    images: ['https://cdn.discordapp.com/attachments/1132817220611866745/1249652238964621352/4FA039F4-92BC-44F0-B51F-1B7C253F4527.png?ex=666814d7&is=6666c357&hm=213c2dda6882a7ae3d101fc9ab592d30d9c070f1574b82cf37a8854619f3f720&']
-  },
   twitter: {
     card: 'summary_large_image',
     title: 'Nexium',

@@ -7,7 +7,7 @@ const data = {
     title: "See you soon 😉",
     description: "We can't wait to show you what we've been working on. Stay tuned for our live updates!",
     newsletterheading: "Stay tuned for our live updates!",
-    copyrightText: `Copyright © ${currentYear} - Toxic Development`,
+    copyrightText: `Copyright © ${currentYear} - Nexium | Coded by: Toxic Development`,
     socialIconsHeading: "Follow Us 📣",
     hideSubscribeForm: true,
     socialIcons: [

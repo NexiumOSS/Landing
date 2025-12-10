@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     siteName: "Nexium",
     images: [
       {
-        url: "/logo.png",
+        url: "/banner.png",
         width: 320,
         height: 320,
         alt: "Nexium logo",
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     images: ["/banner.png"],
   },
   icons: {
-    icon: "/logo.png",
+    icon: "/full-logo.png",
   },
 };
 

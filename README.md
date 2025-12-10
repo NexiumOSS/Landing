@@ -14,6 +14,18 @@ pnpm dev
 bun dev
 ```
 
+### Additional setup for this landing page
+
+This project uses `react-icons` and `lucide-react` for icons used in the Coming Soon page. Install them with:
+
+```powershell
+npm install react-icons lucide-react
+# or
+pnpm add react-icons lucide-react
+```
+
+No additional Tailwind config file is required — the project uses the framework already wired into the repo. If you want to customize Tailwind further, add a `tailwind.config.cjs`.
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
